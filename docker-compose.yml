@@ -1,0 +1,7 @@
+version: '3.3'
+
+services:  
+    sphinx_builder:
+        image: sphinx-doc-image:latest
+        volumes:
+            - .:/app

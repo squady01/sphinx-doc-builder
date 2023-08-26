@@ -1,0 +1,6 @@
+.vscode
+build/
+*.7z
+*.zip
+.DS_Store
+docs/
